@@ -1,1 +1,7 @@
 Kubernetes Helm process for managing different .yaml files. Instead of different files making 
+
+Key components of the kubernates HELM
+charts
+repositories
+Releases
+values 
