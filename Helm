@@ -5,3 +5,5 @@ charts
 repositories
 Releases
 values 
+
+It is used with MySQL for better connection 
